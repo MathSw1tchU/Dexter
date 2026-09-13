@@ -1,0 +1,6 @@
+{
+  "name": "Pokédex AI & PokéAPI",
+  "description": "Pokédex com reconhecimento de miniaturas e bonequinhos de Pokémon por IA Gemini, dados falados lúdicos para crianças e integração com a PokéAPI.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
